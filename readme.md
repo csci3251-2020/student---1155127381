@@ -14,4 +14,4 @@ Language | Comment
 'Python' | Plan to learn
 'Java' | Took a course about it before 
 #### My screenshot of my command
-![My Screenshot](screenshot.png)
+![My Screenshot](screenshot)
